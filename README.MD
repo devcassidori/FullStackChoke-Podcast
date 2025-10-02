@@ -40,7 +40,8 @@ O **Full Stack Choke** é um podcast que explora o mundo da programação atrav�
 ```
 Crie um roteiro para um podcast chamado "Full Stack Choke" que mistura 
 programação e jiu-jitsu. O episódio piloto deve abordar a jornada de um 
-robo iniciante chamado BitGuard (explique o nome dele), fazendo analogias com programção e tecnicas de jiu-jitsu.
+robo iniciante chamado BitGuard (explique o nome dele), fazendo analogias
+com programção e tecnicas de jiu-jitsu.
 Inclua conceitos e filosofias, (começe explicando o que significa Oss).
 ```
 
