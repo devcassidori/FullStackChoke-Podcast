@@ -1,17 +1,15 @@
-
-# 🎙️ Full Stack Choke Feat. BitGuard.
-
 <div align="center">
+<h1>🎙️ Full Stack Choke Feat. BitGuard. - Do back-end ao estrangulamento, programanado vitórias no tatame! 💻🥋</h1>
   <img src="assets/capa-bit-guard.png" width="100%" alt="Capa do Podcast- BitGuard"/>
   
   **➤ EP 01:** *Oss! Do primeiro commit à faixa azul.*
   
   <audio controls>
     <source src="assets/audio-podcast.MP3" type="audio/mpeg">
-    Seu navegador não suporta o elemento de áudio.
+    Sem suporte para elemento de áudio.
   </audio>
   <br>
-  <a href="assets/audio-podcast.MP3" download="EP 01 - Oss! Do primeiro commit à faixa azul.">Download Áudio</a>
+  <a href="assets/audio-podcast.MP3" download="Full Stack Choke - Oss! Do primeiro commit à faixa azul (EP 01).">● Download Áudio</a>
 </div>
 
 ---
@@ -40,10 +38,10 @@ O **Full Stack Choke** é um podcast que explora o mundo da programação atrav�
 
 ### 📝 Gemini - Geração de Roteiro
 ```
-Crie um roteiro para um podcast chamado "Full Stack Choke" que mistura 
-programação e jiu-jitsu. O episódio piloto deve abordar a jornada de um 
-robo iniciante chamado BitGuard (explique o nome dele), fazendo analogias
-com programção e tecnicas de jiu-jitsu.
+Crie um roteiro para um podcast chamado "Full Stack Choke - Do back-end ao estrangulamento, 
+programanado vitórias no tatame!" que mistura programação e jiu-jitsu. 
+O episódio piloto deve abordar a jornada de um robo iniciante chamado BitGuard (explique o nome dele),
+fazendo analogias com programção e tecnicas de jiu-jitsu.
 Inclua conceitos e filosofias, (começe explicando o que significa Oss).
 ```
 
@@ -69,7 +67,7 @@ No estilo cartoom e em formato de sticker.
         <h3>Lucas Cassidori</h3>
         <strong>Full Stack Developer | Praticante de Jiu Jitsu</strong>
         <br><br>
-        <em>Apaixonado por tecnologias e técnicas de finalização</em> 🥋💻
+        <em>Apaixonado por tecnologias e técnicas de finalização</em> 💻🥋
         <br><br>
         <a href="https://linkedin.com/in/lucascassidori">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
