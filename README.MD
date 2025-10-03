@@ -10,6 +10,8 @@
     <source src="assets/audio-podcast.MP3" type="audio/mpeg">
     Seu navegador não suporta o elemento de áudio.
   </audio>
+  <br>
+  <a href="assets/audio-podcast.MP3" download="EP 01 - Oss! Do primeiro commit à faixa azul.">Download Áudio</a>
 </div>
 
 ---
