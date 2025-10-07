@@ -10,6 +10,8 @@
   </audio>
   <br>
   <a href="assets/audio-podcast.MP3" download="Full Stack Choke - Oss! Do primeiro commit à faixa azul (EP 01).">● Download Áudio</a>
+  
+  <a href="https://drive.google.com/file/d/1rXA4X8YY0unoEJTZzCJ13hPilbYOUfvU/view">● Google Drive</a>
 </div>
 
 ---
@@ -50,7 +52,7 @@ Inclua conceitos e filosofias, (começe explicando o que significa Oss).
 Crie uma imgem de um robo sentado em frete ao um pc com codigo de programação na tela,
 bebendo uma xícara de óleo quente (como se fosse café), falando em um microfone de podcast,
 vestindo um kimono branco de jiu jitsu e faixa azul.
-No estilo cartoom e em formato de sticker.
+No estilo cartoon e em formato de sticker.
 ```
 
 ---
